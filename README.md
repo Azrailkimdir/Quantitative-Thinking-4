@@ -81,9 +81,9 @@ The same launch. A completely different result.
 ---
 ## Project Files
 
-- Excel Spreadsheet [Excel Spreadsheet](Launch_Angle_Analysis.pdf)
-- Data Visualization [Data Visualization](Launch_Angle_Analysis.png)
-- Engineering Notes [Engineering Notes](Quantitative_Thinking_1_Engineering_Notebook.pdf)
+- Excel Spreadsheet [Excel Spreadsheet](Moon_Projectile_Analysis.xlsx)
+- Data Visualization [Data Visualization](Moon_Projectile_Comparison.png)
+- Engineering Notes [Engineering Notes](Quantitative_Thinking_3_Engineering_Notebook.pdf)
 ---
 ## Author
 
