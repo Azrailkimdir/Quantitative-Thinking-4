@@ -10,15 +10,16 @@ Would the same projectile travel farther on the Moon than on Earth?
 
 Launch Velocity:
 - 100 m/s
-- 
+  
 Launch Angle:
 - 45°
-- 
+  
 Gravity:
 - Earth = 9.81 m/s²
 - Moon = 1.62 m/s²
-- 
+  
 Projectile Range Equation:
+
 Range = (V² × sin(2θ)) / g
 
 ---
